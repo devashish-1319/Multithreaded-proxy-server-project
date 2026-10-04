@@ -1,0 +1,13 @@
+# build output
+proxy
+*.o
+*.tgz
+
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+
+# Claude Code local data
+.claude/
